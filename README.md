@@ -14,20 +14,11 @@
 
 ## สรุปเนื้อหาแต่ละบท
 
-### บทที่ 1
-- อธิบาย Git คืออะไร, ประโยชน์, การติดตั้ง, การตั้งค่าชื่อและอีเมล
-
-### บทที่ 2
-- การเริ่มต้น repository, ตรวจสอบสถานะ, เพิ่มไฟล์, commit, ดูประวัติ
-
-### บทที่ 3
-- การสร้าง/สลับสาขา, การรวมสาขา (merge)
-
-### บทที่ 4
-- การเชื่อมต่อกับ remote, push, pull, clone
-
-### บทที่ 5
-- คำศัพท์สำคัญ: repository, commit, branch, merge, conflict, remote
+- **บทที่ 1:** แนะนำ Git, วิธีติดตั้ง, และการตั้งค่าเครื่องมือสำหรับเริ่มต้น
+- **บทที่ 2:** การเริ่มต้น repository, ตรวจสอบสถานะ, เพิ่มไฟล์, commit, ดูประวัติ
+- **บทที่ 3:** การสร้าง/สลับสาขา, การรวมสาขา (merge)
+- **บทที่ 4:** การเชื่อมต่อกับ remote, push, pull, clone
+- **บทที่ 5:** คำศัพท์สำคัญ: repository, commit, branch, merge, conflict, remote
 
 ---
 
@@ -45,17 +36,8 @@ This course content is generated and organized by GitHub Copilot AI to help lear
 
 ## Chapter Summaries
 
-### Chapter 1
-- What is Git, why use it, installation, initial configuration
-
-### Chapter 2
-- Initializing a repository, checking status, adding files, committing, viewing history
-
-### Chapter 3
-- Creating/switching branches, merging branches
-
-### Chapter 4
-- Connecting to remote, pushing, pulling, cloning
-
-### Chapter 5
-- Key terms: repository, commit, branch, merge, conflict, remote
+- **Chapter 1:** What is Git, why use it, installation, initial configuration
+- **Chapter 2:** Initializing a repository, checking status, adding files, committing, viewing history
+- **Chapter 3:** Creating/switching branches, merging branches
+- **Chapter 4:** Connecting to remote, pushing, pulling, cloning
+- **Chapter 5:** Key terms: repository, commit, branch, merge, conflict, remote
